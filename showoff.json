@@ -1,0 +1,9 @@
+{
+  "name": "Internationalization Demo",
+  "sections": [
+    "introduction",
+    "demos",
+    "internationalization",
+    "conclusion"
+  ]
+}
