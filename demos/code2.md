@@ -28,3 +28,10 @@ Can highlight lines of text too:
 
     @@@ Shell execute
     cat /tmp/foo
+
+~~~SECTION:notes~~~
+
+Note that Puppet doesn't work out-of-the-box on Alpine, so that example won't work if
+you're using the Docker image.
+
+~~~ENDSECTION~~~
