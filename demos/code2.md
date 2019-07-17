@@ -7,6 +7,11 @@
       puts item.upcase
     end
 
+.break
+
+    @@@ Shell execute
+    cowsay 'Showoff is rad!'
+
 Can highlight lines of text too:
 
     @@@ Puppet execute
