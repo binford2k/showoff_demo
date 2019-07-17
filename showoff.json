@@ -5,5 +5,7 @@
     "demos",
     "internationalization",
     "conclusion"
-  ]
+  ],
+  "issues": "https://github.com/binford2k/showoff_demo/issues/new?title=",
+  "edit": "https://github.com/binford2k/showoff_demo/edit/master/"
 }
